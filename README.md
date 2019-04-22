@@ -12,11 +12,10 @@
 * [Simons Data Privacy Program 2019](https://simons.berkeley.edu/programs/privacy2019)
 * [Deep Learning & Security Workshop, IEEE 2019](https://www.ieee-security.org/TC/SPW2019/DLS/)
 * [Workshop on Security in Machine Learning, NeurIPS 2018](https://secml2018.github.io/)
-* [Privacy-preserving Machine Learning, NeurIPS 2018 ](https://ppml-workshop.github.io/ppml/)
+* [Privacy-preserving Machine Learning, NeurIPS 2018](https://ppml-workshop.github.io/ppml/)
 * [Deep Learning & Security Workshop, IEEE 2018](https://www.ieee-security.org/TC/SPW2018/DLS/)
 * [Private Multi-party Machine Learning, NIPS 2016](https://pmpml.github.io/PMPML16/)
-* [Workshop on Learning, Security and Privacy, ICML 2014]
-(https://sites.google.com/site/learnsecprivacy2014/program)
+* [Workshop on Learning, Security and Privacy, ICML 2014](https://sites.google.com/site/learnsecprivacy2014/program)
 
 ## Courses
 * [by Vitaly Shmatikov](http://www.cs.cornell.edu/~shmat/teaching.html)
