@@ -52,8 +52,8 @@ Resources for privacy-preserving data-mining.
 * [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org/)
 
 ## Foundational Papers
-* [Revealing Information While Preserving Privacy](www.cse.psu.edu/~ads22/privacy598/papers/dn03.pdf)
-* [Calibrating noise to sensitivity in private data analysis](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/405/388)
+* [Revealing Information while Preserving Privacy](www.cse.psu.edu/~ads22/privacy598/papers/dn03.pdf)
+* [Calibrating Noise to Sensitivity in Private Data Analysis](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/405/388)
 
 ## Follow
 * [Kobbi Nissim](https://dblp.org/pers/hd/n/Nissim:Kobbi)
