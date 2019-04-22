@@ -31,7 +31,7 @@
 * [Hacking Deep Learning 2018](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw2_ewRERdxYPeme5sa4Eu4M)
 * [Hacking Deep Learning 2019](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1dO9kc2_SQQRchzpQQDYXy)
 * [ML in Cybersec playlist](https://www.youtube.com/watch?v=tukidI5vuBs&list=PLSRlqkflyPqR2Tc2_N4Ixb2N5bc43YdEM)
-* IEEE Deep Learning & Security Workshop 2018(https://www.youtube.com/playlist?list=PL0pRF4xvoD0liEIWyJ6kmXqGT7nbr2L3u)
+* [IEEE Deep Learning & Security Workshop 2018](https://www.youtube.com/playlist?list=PL0pRF4xvoD0liEIWyJ6kmXqGT7nbr2L3u)
 
 ## Blogs
 * [Cleverhans](http://www.cleverhans.io/)
