@@ -58,3 +58,4 @@
 * [Kobbi Nissim](https://dblp.org/pers/hd/n/Nissim:Kobbi)
 * [Adrià Gascón](https://dblp.org/pers/hd/g/Gasc=oacute=n:Adri=agrave=)
 * [Morten Dahl](https://dblp.org/pers/hd/d/Dahl:Morten)
+* [Cynthia Dwork](https://dblp.org/pers/hd/d/Dwork:Cynthia)
