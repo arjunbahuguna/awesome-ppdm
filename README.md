@@ -15,7 +15,7 @@
 * [Privacy-preserving Machine Learning, NeurIPS 2018 ](https://ppml-workshop.github.io/ppml/)
 * [Deep Learning & Security Workshop, IEEE 2018](https://www.ieee-security.org/TC/SPW2018/DLS/)
 * [Private Multi-party Machine Learning, NIPS 2016](https://pmpml.github.io/PMPML16/)
-* [Workshop on Learning, Security and Privacy, ICML 2014 ]
+* [Workshop on Learning, Security and Privacy, ICML 2014]
 (https://sites.google.com/site/learnsecprivacy2014/program)
 
 ## Courses
