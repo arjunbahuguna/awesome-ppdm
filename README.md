@@ -19,7 +19,7 @@
 
 ## Courses
 * [by Vitaly Shmatikov](http://www.cs.cornell.edu/~shmat/teaching.html)
-* [by Arvind Narayanan]http://randomwalker.info/teaching/
+* [by Arvind Narayanan](http://randomwalker.info/teaching/)
 * [by Reza Shokri (not public)](https://www.comp.nus.edu.sg/~reza/)
 * [by Aaron Roth](https://www.cis.upenn.edu/~aaroth/)
 
@@ -27,7 +27,7 @@
 * [AI Village 2018](https://www.youtube.com/watch?v=D09MkTeQfOQ&list=PL9fPq3eQfaaAMFXytVqYl1sfN_A14vrj7)
 * [Goldwasser ON Crypto-ML](https://www.youtube.com/watch?v=bMJtCe1aK0w)
 * [CAMLIS Conference](https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos)
-* [NeurIPS SecML 2018](https://www.youtube.com/watch?v=zbhQijVlGxg&list=PLFG9vaKTeJq4IpOje38YWA9UQu_COeNve
+* [NeurIPS SecML 2018](https://www.youtube.com/watch?v=zbhQijVlGxg&list=PLFG9vaKTeJq4IpOje38YWA9UQu_COeNve)
 * [Hacking Deep Learning 2018](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw2_ewRERdxYPeme5sa4Eu4M)
 * [Hacking Deep Learning 2019](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1dO9kc2_SQQRchzpQQDYXy)
 * [ML in Cybersec playlist](https://www.youtube.com/watch?v=tukidI5vuBs&list=PLSRlqkflyPqR2Tc2_N4Ixb2N5bc43YdEM)
@@ -43,7 +43,7 @@
 # Resources from Twitter
 * [Tutorials by Trask](https://twitter.com/iamtrask/status/1101894655631912960?s=19)
 * [TF Frameworks for S&P](https://twitter.com/dropoutlabsai/status/1100110783424253952)
-* [Code examples for tfencrypted] https://twitter.com/mortendahlcs/status/1118100102835519488?s=19
+* [Code examples for tfencrypted](https://twitter.com/mortendahlcs/status/1118100102835519488?s=19)
 
 ## Books
 * [Interpretable ML book](https://christophm.github.io/interpretable-ml-book/)
